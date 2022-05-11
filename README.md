@@ -6,7 +6,7 @@
 * docker run (ชื่อimage) *รันimage*
 * docker rmi (ชื่อimage) *ลบimage*
 * docker images *แสดงimageที่มีในเครื่อง*
-
+* dicker history (ชื่อimage) *ดูว่าในอดีตเคยรันอะไรบ้าง*
 
 * docker ps -a *แสดง container ทั้งหมดทั้งที่ทำงานและหยุดอยู่*
 * docker ps *แสดง containerที่ทำงานอยู่*
